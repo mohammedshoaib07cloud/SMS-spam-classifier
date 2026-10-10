@@ -16,7 +16,7 @@ ML project to classify SMS messages as spam or ham
 
 From the above table i can chose modal 1,3
   1. modal 1 beause it detects more ham and less spam which is good caues if it detected any real email as spam that is worse then allowing       span to it
-  2. 2.modal 3 if it can just shift the real emails into the spam folder that could be searched then it is ok cause it can't detect ham as        ham efficiently like other modal but it porfoms better then the privious modals
+  2. 2.modal 3 if it can just shift the real emails into the spam folder that could be searched then it is ok cause it can't detect ham as        ham efficiently like other modal but it perfoms better then the privious modals
 
 
 What i would improve?
